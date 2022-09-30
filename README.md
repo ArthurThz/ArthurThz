@@ -1,6 +1,7 @@
 <img src="banner.gif" width = "250px" align="right"/>
 
 # 🐱‍👤Welcome friend, let's code together!
+---
 - 💻 Desenvolvedor Front-End em Desenvolvimento.<br>
 - 🚀 Provando para mim mesmo que sou capaz.<br>
 - 📚 Sempre buscando mais.<br>
