@@ -14,7 +14,9 @@
   
 </div>
 <br>
- <div align = "left">
+ <div align = "center">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurThz&show_icons=true&theme=github_dark&count_private=true"/>
+  
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=ArthurThz&show_icons=true&show_icons=true&theme=github_dark&count_private=true" />
+  
 </div>
