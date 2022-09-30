@@ -5,6 +5,15 @@
 - 💻 Desenvolvedor Front-End em Desenvolvimento.<br>
 - 🚀 Provando para mim mesmo que sou capaz.<br>
 - 📚 Sempre buscando mais.<br>
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/arthur-theodoro-752616182/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/theodoro_arthur/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
+  </a>
+  
+</div>
 ---
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
