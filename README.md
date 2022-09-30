@@ -1,3 +1,3 @@
-<img src="banner.gif" width = "300px"/>
+<img src="banner.gif" width = "300px" align="right"/>
 
-# Welcome to my GitHub, lets be friends!
+# Welcome friend, let's code together!
