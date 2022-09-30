@@ -1,4 +1,4 @@
-<img src="bannergato.gif" width = "250px" align="right"/>
+<img src="bannergato.gif" width = "200px" height="200px" align="right"/>
 
 # 🐱‍👤Welcome friend, let's code together!
 
