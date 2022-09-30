@@ -13,4 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   
 </div>
-  
+ 
+ 
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurThz&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ArthurThz&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
