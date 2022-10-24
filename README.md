@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/theodoro_arthur/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
   </a>
-  
+  <img src="bannergato.gif" width = "200px" height="200px" align="center"/>
 </div>
 
 ---
