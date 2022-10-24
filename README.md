@@ -1,5 +1,5 @@
  
-# 🐱‍👤Welcome friend, let's code together!  <img src="bannergato.gif" width = "90px" height="80px" align="center"/>
+# 🐱‍👤Welcome friend, let's code together! 
 
 - 💻 Desenvolvedor Front-End em Desenvolvimento.<br>
 - 🚀 Provando para mim mesmo que sou capaz.<br>
