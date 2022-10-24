@@ -4,6 +4,7 @@
 - 💻 Desenvolvedor Front-End em Desenvolvimento.<br>
 - 🚀 Provando para mim mesmo que sou capaz.<br>
 - 📚 Sempre buscando mais.<br>
+- 📌 Atualmente estudando ReactJS.<br>
 <div id="badges">
   <a href = "https://www.linkedin.com/in/arthur-theodoro-752616182/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
