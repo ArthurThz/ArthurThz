@@ -1,6 +1,5 @@
-<img src="bannergato.gif" width = "200px" height="200px" align="right"/>
-
-# 🐱‍👤Welcome friend, let's code together!
+ 
+# 🐱‍👤Welcome friend, let's code together!  <img src="bannergato.gif" width = "90px" height="80px" align="center"/>
 
 - 💻 Desenvolvedor Front-End em Desenvolvimento.<br>
 - 🚀 Provando para mim mesmo que sou capaz.<br>
@@ -12,7 +11,6 @@
   <a href="https://www.instagram.com/theodoro_arthur/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
   </a>
-  <img src="bannergato.gif" width = "200px" height="200px" align="center"/>
 </div>
 
 ---
