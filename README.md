@@ -4,7 +4,7 @@
 - 💻 I'm a front end developer.<br>
 - ❤ Tech lover.<br>
 - 📚 Always improving my skills as dev and person.<br>
-- 📌 Little advice: you is completly capable to change your life, stay focused.<br>
+- 📌 Little advice: you're completly capable to change your life, stay focused.<br>
 <div id="badges">
   <a href = "https://www.linkedin.com/in/arthur-theodoro-752616182/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
