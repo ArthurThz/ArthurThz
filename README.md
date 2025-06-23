@@ -1,7 +1,7 @@
  
 # 🐱‍👤Hi, I'm Arthur Theodoro! 
 
-- 💻 I'm a front end developer.<br>
+- 💻 I'm a fullstack developer.<br>
 - ❤ Tech lover.<br>
 - 📚 Always improving my skills as dev and person.<br>
 - 📌 Little advice: you're completely capable to change your life, stay focused.<br>
